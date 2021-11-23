@@ -1,10 +1,10 @@
 # shuhari
 
-Nuestra direccion de github es la siguiente [github] ()
+Nuestra direccion de github es la siguiente [github] (https://github.com/FedeOcejo/shuhari.git)
 
 Nos han mandado un código de un juego de Black Jack y lo hemos analizado y esta muy completo por lo cual no lo cambiariamos. También se puede ver su claro progreso durante las estapas de Shu Ha y Ri
 
-! [diagrama de flujo] ()
+! [diagrama de flujo] (https://github.com/FedeOcejo/shuhari/blob/main/DIAGRAMA%20FLUJO.jpg)
 
 
 shu
